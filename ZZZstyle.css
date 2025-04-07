@@ -1,0 +1,55 @@
+#logo {
+	height:100px;
+	width:100px;
+	margin:0 auto;
+	text-align:center;
+}
+ 
+
+body {
+	background-image: url("../IMG/zzzback2.png");
+	background-size: 1600px;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+
+img {
+	height:20%;
+	width:20%;
+	margin:0;
+	   border-radius: 5px;
+}
+
+header {
+  right: 0px;
+  width: 300px;
+  border: 3px solid #ea5d4d;
+  padding: 10px;
+}
+
+table, th, td {
+  border: 1px solid;
+   width: 15%;
+}
+
+h3 {
+	font-size:30px;
+}
+ul {
+	font-size:20px;
+}
+
+table {
+	font-size:20px;
+}
+
+form {
+	font-size:20px;
+}
+
+#server {
+	font-size:30px;
+	}
+	
